@@ -2,7 +2,8 @@
 Phase-1: Build & Deployment
 ---------------------------
 
-What we are discussing & learning from Phase-1: Build & deploy your application using the tools - Linux, Maven, Jenkins, GitHub, Tomcat, Nexus, AWS(EC2)
+What we are discussing & learning from Phase-1: 
+Build & deploy your application using the tools - Linux, Maven, Jenkins, GitHub, Tomcat, Nexus, AWS(EC2)
 
 A. Tools installation & integration between the tools.
 B. CI - CD Setup using 
